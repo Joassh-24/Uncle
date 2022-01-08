@@ -36,33 +36,12 @@ h1:after {
 }
 
 @keyframes abomination1 {
-  0% {    content: "B ";  }
-  4% {    content: "Ba ";  }
-  8% {    content: "Bal ";  }
-  12% {    content: "Bala ";  }
-  16% {    content: "B Bala ";  }
-  20% {    content: "Ba Bala ";  }
-  22% {    content: "Bab Bala ";  }
-  24% {    content: "Baby Bala ";  }
-  28% {    content: "Baby Bal ";  }
-  32% {    content: "Baby Ba ";  }
-  36% {    content: "Baby B ";  }
-  40% {    content: "Baby ";  }
-  44% {    content: "Baby U";  }
-  48% {    content: "Baby Un";  }
-  52% {    content: "Baby Unc";  }
-  56% {    content: "Baby Uncl";  }
-  60% {    content: "Baby Uncle";  }
-  64% {    content: "Baby Uncle😁";  }
-  68% {    content: "U ";  }
-  72% {    content: "U G";  }
-  76% {    content: "U Ga";  }
-  80% {    content: "U Gay";  }
-  84% {    content: "U Gay U"; }
-  88% {    content: "U Gay Un"; }
-  92% {    content: "U Gay Unc"; }
-  96% {    content: "U Gay Uncl"; }
-  100% {    content: "U Gay Uncle😌"; }
+  0% {    content: "H ";  }
+  25% {    content: "He ";  }
+  50% {    content: "Hel ";  }
+  75% {    content: "Hell ";  }
+  100% {    content: "Hello ";  }
+}
 
 
 
